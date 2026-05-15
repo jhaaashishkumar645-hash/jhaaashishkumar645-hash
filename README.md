@@ -9,9 +9,9 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aashish-kumar-jha-138342323)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com](https://github.com/jhaaashishkumar645-hash))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhaaashishkumar645@gmail.com)
 
 </div>
 
@@ -23,7 +23,6 @@
 class AashishKumarJha:
     def __init__(self):
         self.name        = "Aashish Kumar Jha"
-        self.university  = "Quantum University"
         self.degree      = "B.Tech CSE (AI & ML Specialization)"
         self.semester    = "4th Semester"
         self.domains     = ["Data Analyst", "Data Scientist", "Machine Learning"]
@@ -122,7 +121,7 @@ print(me.mission())
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=jhaaashishkumar645-hash&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
 
@@ -145,7 +144,7 @@ print(me.mission())
 
 *I'm always open to exciting projects, collaborations, and new opportunities in AI, Data Science & ML.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=jhaaashishkumar645-hash&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 ⭐ **If you find my work interesting, consider starring my repositories!** ⭐
 
