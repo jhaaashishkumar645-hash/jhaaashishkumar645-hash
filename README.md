@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Aashish Kumar Jha
 
-### 🎓 B.Tech CSE (AI & ML) | Quantum University | 4th Semester
+### 🎓 B.Tech CSE (AI & ML) | 4th Semester
 ### 🤖 AI Enthusiast | Data Science | Google Developer Group Core Member
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Data+Scientist;Machine+Learning+Engineer;AI+%26+ML+Passionate;Google+Developer+Group+Core+Member;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
